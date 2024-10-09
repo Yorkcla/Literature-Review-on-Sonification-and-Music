@@ -1,14 +1,17 @@
-# Sonification-and-Music-A-Systematic-Literature-Review
-Sonification and music literature review dataset
+# Musical Interpretations of Interactive Sonification: Data Files for a Systematic Literature Review
 
-## What to do for this repository 
-1. sorting out the files readable on the web directly/ 개별 데이터 열 중에 필요 없는 것은 제외시켜야 함. 딱 필요한 열만 유지하기. 
-2. explaining how people can check the data like decoding abbreviations in file names/ 그리고 이 템플릿을 누군가 활용할 수 있도록 잘 적어두는 것 나쁘지 않을 듯
-3. maybe some options people can suggest new papers to the repository? check some similar cases as reference
+This repository contains data files related to a systematic literature review on the intersections between interactive sonification and music.
 
-## 해야할 일
+## Files
+- `data_file_1.xlsx`: [Brief description of what this file contains]
+- `data_file_2.xlsx`: [Brief description of what this file contains]
+- `data_file_3.xlsx`: [Brief description of what this file contains]
 
-1. 전체 다 볼 수 있는 파일
-2. 주제 정리 파일
-3. 음악적용 정리 파일
-4. 리드미 파일
+## Usage
+Feel free to download and use these files to gather additional information for reading my review paper or for your further research.
+
+## Contributions
+To contribute, please fork this repository, make your changes, and submit a pull request. I will review and merge if appropriate. Alternatively, you can reach out to me via email at [minsik.choi@anu.edu.au](mailto:minsik.choi@anu.edu.au).
+
+## License
+This data is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). You are free to share and adapt the material as long as appropriate credit is given. [Link to license](https://creativecommons.org/licenses/by/4.0/)
