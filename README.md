@@ -1,4 +1,4 @@
-# Musical Interpretations of Interactive Sonification: Data Files for a Systematic Literature Review
+# Data Files for a Systematic Literature Review on Sonification and Music
 
 This repository contains data files related to a systematic literature review on the intersections between interactive sonification and music.
 
