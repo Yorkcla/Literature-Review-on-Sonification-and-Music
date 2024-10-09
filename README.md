@@ -11,8 +11,6 @@ You can check the project details [here](https://yorkcla.github.io/projects/1_pr
 - `Finalpool.csv`: Complete data pool, serving as the final set for the review.
 - `Analysis Result.csv`: Table of overall analysis results from the review.
 - `Extraction Description.csv`: Table detailing the overall extraction with numerical data.
-- `Musical Application.csv`: Table detailing the types of musical applications with numerical data.
-- `Research Theme.csv`: Table detailing the single and interconnected research themes with numerical data.  
 
 ## Usage
 Feel free to download and use these files to gather additional information for reading my review paper or for your further research.
