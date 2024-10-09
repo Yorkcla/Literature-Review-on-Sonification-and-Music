@@ -1,13 +1,18 @@
 # Data Files for a Literature Review on Interactive Sonification and Music
 
-This repository contains data files related to a systematic literature review on the intersections between interactive sonification and music. 
+This repository contains data files for a systematic literature review on the intersections between interactive sonification and music. 
 
 You can check the project details [here](https://yorkcla.github.io/projects/1_project/).
 
 ## Files
-- `data_file_1.xlsx`: [Brief description of what this file contains]
-- `data_file_2.xlsx`: [Brief description of what this file contains]
-- `data_file_3.xlsx`: [Brief description of what this file contains]
+- `Primary Dataset`: Primary datasets from the selected 11 libraries.
+- `Firstpool.csv`: The complete data pool from the initial data extraction.
+- `Secondpool.csv`: The complete data pool from the second data extraction.
+- `Finalpool.csv`: The complete data pool, serving as the final set for the review.
+- `Analysis Result.csv`: Table of overall analysis results from the review.
+- `Extraction Description.csv`: Table detailing the overall extraction with numerical data.
+- `Musical Application.csv`: Table detailing the types of musical applications with numerical data.
+- `Research Theme.csv`: Table detailing the single and interconnected research themes with numerical data.  
 
 ## Usage
 Feel free to download and use these files to gather additional information for reading my review paper or for your further research.
