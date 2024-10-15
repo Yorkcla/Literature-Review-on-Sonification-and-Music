@@ -1,8 +1,6 @@
 # Data for a Literature Review on Sonification and Music
 
-This repository contains data files for a systematic literature review on the intersections between interactive sonification and music. 
-
-You can check the project details [here](https://yorkcla.github.io/projects/1_project/).
+This repository contains data files for a systematic literature review on the intersections between interactive sonification and music. Please check the project details [here](https://yorkcla.github.io/projects/1_project/).
 
 ## Files
 - `Primary Dataset`: Primary datasets from the selected 11 libraries.
