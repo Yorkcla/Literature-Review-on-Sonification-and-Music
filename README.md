@@ -12,7 +12,7 @@ You can check the project details [here](https://yorkcla.github.io/projects/1_pr
     - `Finalpool.xlsx`: Complete data pool, serving as the final set.
     - `Analysis Result.xlsx`: Table of overall analysis results (with detailed sub-group breakdowns).
     - `Extraction Description.xlsx`: Table detailing the overall extraction with numerical data.
-- `Analysis Result.csv and Finalpool.csv`: files viewable on GitHub for the final results
+- `Analysis Result.csv and Finalpool.csv`: Viewable on GitHub for the final results
 
 ## Usage
 Feel free to download and use these files to gather additional information for reading my review paper or for your further research.
