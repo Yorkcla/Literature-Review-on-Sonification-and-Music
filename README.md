@@ -9,8 +9,8 @@ You can check the project details [here](https://yorkcla.github.io/projects/1_pr
 - `Overall Files`: .xlsx files for the overall review process.
     - `Firstpool.xlsx`: Complete data pool from the initial data extraction.
     - `Secondpool.xlsx`: Complete data pool from the second data extraction.
-    - `Finalpool.xlsx`: Complete data pool, serving as the final set for the review.
-    - `Analysis Result.xlsx`: Table of overall analysis results from the review (with detailed sub-group breakdowns).
+    - `Finalpool.xlsx`: Complete data pool, serving as the final set.
+    - `Analysis Result.xlsx`: Table of overall analysis results (with detailed sub-group breakdowns).
     - `Extraction Description.xlsx`: Table detailing the overall extraction with numerical data.
 - `Analysis Result.csv and Finalpool.csv`: files viewable on GitHub for the final results
 
