@@ -44,7 +44,7 @@ Surgical soundtracks: automatic acoustic augmentation of surgical procedures,"Ma
 Sonifying Twitter's Emotions Through Music,"Sei√ßa, Mariana; Lopes, Rui; Martins, Pedro; Cardoso, F. Am√≠lcar; Aramaki, Mitsuko; Davies, Matthew E. P.; Kronland-Martinet, Richard; Ystad, S√∏lvi",2017,Springer,CMMR,emotion,theoretical,two,,x,
 Mapping for meaning: the embodied sonification listening model and its implications for the mapping problem in sonic information design,"Roddy, Stephen; Bridges, Brian",2020,Springer,J. Multimodal User Interfaces,design,theoretical,two,theoretical,,
 Auditory Displays in Human-Machine Interfaces of Mobile Robots for Non-Speech Communication with Humans,"Johannsen, Gunnar",2001,Springer,JINT,movement-space,theoretical,zero-one(par),,x,
-Sparse Bump Sonification: A New Tool for Multichannel EEG Diagnosis of Mental Disorders; Application to the Detection of the Early Stage of Alzheimer‚Äôs Disease,"Vialatte, Fran√ßois B.; Cichocki, Andrzej; King, Irwin; Wang, Jun; Chan, Lai-Wan; Wang, DeLiang; Hutchison, David; Kanade, Takeo; Kittler, Josef; Kleinberg, Jon M.; Mattern, Friedemann; Mitchell, John C.; Naor, Moni; Nierstrasz, Oscar; Pandu Rangan, C.; Steffen, Bernhard; Sudan, Madhu; Terzopoulos, Demetri; Tygar, Dough; Vardi, Moshe Y.; Weikum, Gerhard",2006,IEEE,NIPS,medicine-nature-vision,theoretical,zero-one(par),,x,
+Sparse Bump Sonification: A New Tool for Multichannel EEG Diagnosis of Mental Disorders; Application to the Detection of the Early Stage of Alzheimer‚Äôs Disease,"Vialatte, Fran√ßois B.; Cichocki, Andrzej; King, Irwin; Wang, Jun; Chan, Lai-Wan; Wang, DeLiang; Hutchison, David; Kanade, Takeo; Kittler, Josef; Kleinberg, Jon M.; Mattern, Friedemann; Mitchell, John C.; Naor, Moni; Nierstrasz, Oscar; Pandu Rangan, C.; Steffen, Bernhard; Sudan, Madhu; Terzopoulos, Demetri; Tygar, Dough; Vardi, Moshe Y.; Weikum, Gerhard",2006,IEEE,ICONIP,medicine-nature-vision,theoretical,zero-one(par),,x,
 The Influence of Audible Alarm Loudness and Type on Clinical Multitasking,"Bruder, Alexandra L.; Rothwell, Clayton D.; Fuhr, Laura I.; Shotwell, Matthew S.; Edworthy, Judy Reed; Schlesinger, Joseph J.",2022,IEEE,J. Med. Syst.,medicine,theoretical,zero,,x,
 AudioBrowser: a mobile browsable information access for the visually impaired,"Chen, Xiaoyu; Tremaine, Marilyn; Lutz, Robert; Chung, Jae-woo; Lacsina, Patrick",2006,IEEE,Univers. Access Inf. Soc.,medicine,theoretical,zero,,x,x
 A sonification system based on geographic and meteorologic data,"Huang, Chih-Fang; Nien, Wei-Po",2015,IEEE,UMEDIA,art-emotion-nature,theoretical,two,,x,
@@ -53,9 +53,9 @@ The SonicHand Protocol for Rehabilitation of Hand Motor Function: A Validation a
 Can simple error sonification in combination with music help improve accuracy in upper limb movements?,"Dailly, Anabel Immoos; Sigrist, Roland; Kim, Yeongmi; Wolf, Peter; Erckens, Hendrik; Cerny, Joachim; Luft, Andreas; Gassert, Roger; Sulzer, James",2012,IEEE,IEEE BioRob,medicine-movement,non-specified-theoretical,zero,,x,
 ARCHIMUSIC3D: Multimodal Playful Transformations between Music and Refined Urban Architectural Design,"Giariskanis, Fotis; Parthenios, Panagiotis; Mania, Katerina",2019,IEEE,VS-Games,space,theoretical,zero-one(par),,x,
 Effects of Interactive Sonification on Emotionally Expressive Walking Styles,"Turchet, Luca; Bresin, Roberto",2015,IEEE,IEEE Trans. Affect. Comput,emotion-medicine-movement,theoretical,zero-one(par),,x,
-An approach for image sonification,"Matta, S.; Kumar, D.K.; Yu, Xinghuo; Burry, M.",2004,IEEE,IEEE Int. Conf. Signal Process,vision,theoretical,zero-one(par),,x,
+An approach for image sonification,"Matta, S.; Kumar, D.K.; Yu, Xinghuo; Burry, M.",2004,IEEE,ISCCSP,vision,theoretical,zero-one(par),,x,
 Detection of obstructive sleep apnea through auditory display of heart rate variability,"Ballora, M.; Pennycook, B.; Ivanov, P.Ch.; Goldberger, A.; Glass, L.",2000,IEEE,Comput. Cardiol.,medicine-nature,theoretical,zero-one(par),,,
-Consumption as a Rhythm: A Multimodal Experiment on the Representation of Time-Series,"Ma√ß√£s, Catarina; Martins, Pedro; Machado, Penousal",2018,IEEE,ICIV,vision,theoretical,zero-one(par),,,
+Consumption as a Rhythm: A Multimodal Experiment on the Representation of Time-Series,"Ma√ß√£s, Catarina; Martins, Pedro; Machado, Penousal",2018,IEEE,IV,vision,theoretical,zero-one(par),,,
 Ranking of Regional Blogs by Suitability for Sonification,"Kori, H.; Tezuka, T.; Tanaka, K.",2006,IEEE,ICDEW,nature,non-specified,,,,
 Sound and meaning in auditory data display,"Hermann, T.; Ritter, H.",2004,IEEE,Proc. IEEE,design,theoretical,zero-one(par),theoretical,,
 A testbed for auralization of graphic art,"Osmanovic, N.; Hrustemovic, N.; Myler, H.R.",2003,IEEE,IEEE Region 5 Annual Technical Conference,art-medicine,theoretical,zero-one(par),,,x
@@ -88,7 +88,7 @@ Eyes-Free Art: Exploring Proxemic Audio Interfaces For Blind and Low Vision Art 
 A Study on User Acceptance of Different Auditory Content for Relaxation,"Yu, Bin; Hu, Jun; Funk, Mathias; Feijs, Loe",2016,ACM,Audio Mostly,emotion-medicine,theoretical,zero-one(par),,x,
 Strategies for Auditory Display of Social Media,"Winters, R. Michael; Joshi, Neel; Cutrell, Edward; Morris, Meredith Ringel",2019,SAGE,Ergon. Des.,emotion-vision,non-specified,,,,
 Perception of Sonified Daily Weather Records,"Flowers, John H.; Grafel, Douglas C.",2002,SAGE,Proc. Hum. Factors Ergon. Soc.,nature,theoretical,zero-one(par),,x,
-Toward a Better Understanding of In-Vehicle Auditory Warnings and Background Noise,"≈†abiƒá, Edin; Chen, Jing; MacDonald, Justin A.",2021,SAGE,Hum. Factors,design,non-specified,,,,
+Toward a Better Understanding of In-Vehicle Auditory Warnings and Background Noise,"≈†abiƒá, Edin; Chen, Jing; MacDonald, Justin A.",2021,SAGE,Hum. Factors,design,non-specified,,,x,
 Do Learned Alarm Sounds Interfere With Working Memory?,"Lacherez, Philippe; Donaldson, Liam; Burt, Jennifer S.",2016,SAGE,Hum. Factors,design,theoretical,zero-one(par),,x,
 Spearcons (Speech-Based Earcons) Improve Navigation Performance in Advanced Auditory Menus,"Walker, Bruce N.; Lindsay, Jeffrey; Nance, Amanda; Nakano, Yoko; Palladino, Dianne K.; Dingler, Tilman; Jeon, Myounghoon",2013,SAGE,Hum. Factors,design,theoretical,zero,,x,
 A Design for Auditory Display,"Blattner, Meera M",2000,SAGE,Proc. Hum. Factors Ergon. Soc.,design,,,review,,
@@ -101,7 +101,7 @@ Interactive Spatial Sonification of Multidimensional Data for Composition and Au
 Sonification of Emotion: Strategies and results from the intersection with music,"Winters, R. Michael; Wanderley, Marcelo M.",2014,Cambridge,Organ. Sound,emotion,theoretical,zero-one(both),,,
 Musical sonification supports visual discrimination of color intensity,"R√∂nnberg, Niklas",2019,T&F,Behav. Inf. Technol.,design-vision,theoretical,zero-one(ver),,x,
 From Visual Art to Music: Sonification Can Adapt to Painting Styles and Augment User Experience,"Nadri, Chihab; Anaya, Chairunisa; Yuan, Shan; Jeon, Myounghoon",2022,T&F,Int. J. Hum.-Comput. Interact.,art-vision,theoretical,one(ver)-two,,x,
-Paleontological Sonification: Letting Music Bring Fossils to Your Ears,"Ekdale, A. A.; Tripp, Alan C.",2005,T&F,JGE,nature,theoretical,zero-one(par),,,
+Paleontological Sonification: Letting Music Bring Fossils to Your Ears,"Ekdale, A. A.; Tripp, Alan C.",2005,T&F,JGE,nature,theoretical,zero-one(par),,x,
 Unwind: a musical biofeedback for relaxation assistance,"Yu, Bin; Funk, Mathias; Hu, Jun; Feijs, Loe",2018,T&F,Behav. Inf. Technol.,emotion-medicine,non-specified,,,x,
 Sonifying data uncertainty with sound dimensions,"Ballatore, Andrea; Gordon, David; Boone, Alexander P.",2019,T&F,Cartogr. Geogr. Inf. Sci..,design,theoretical,zero-one(both),,x,
 Stereo Image Processing Procedure for Vision Rehabilitation,"Balakrishnan, G.; Sainarayanan, G.",2008,T&F,Appl. Artif. Intell.,medicine-space,,,review,,x
@@ -146,7 +146,7 @@ Sonification of Brain and Body Signals in Collaborative Tasks Using a Tabletop M
 Sonification Solutions for Body Movements in Rehabilitation of Locomotor Disorders,"Tissberger, Johann P.; Wersenyi, Gyorgy",2011,Georgia tech,ICAD,medicine-movement,theoretical,zero-one(par),,,
 Sonification Of A Virtual Model Of The Old Rare Musical Instrument,"Lukasik, Ewa; Materski, Michal",2013,Georgia tech,ICAD,art-space,experiential,both-perform,,,
 Personal webmelody: Customized sonification of web servers,"Barra, Maria; Cillo, Tania; de Santis, Antonio; Petrillo, Umberto Ferraro; Negro, Alberto; Scarano, Vittoro; Matlock, Teenie; Maglio, Paul P.",2001,Georgia tech,ICAD,vision,non-specified,,,x,
-sMax: A multimodal toolkit for stock market data sonification,"Ciardi, F. C.",2004,Georgia tech,ICAD,vision,theoretical,zero-one(par),theoretical,,
+sMax: A multimodal toolkit for stock market data sonification,"Ciardi, F. C.",2004,Georgia tech,ICAD,vision,theoretical,zero-one(par),,,
 Sonification: A Prehistory,"Worrall, David",2018,Georgia tech,ICAD,design,,,review,,
 An interface and framework design for interactive aesthetic sonification,"Beilharz, Kirsty; Ferguson, Sam",2009,Georgia tech,ICAD,design-space,theoretical,one(ver)-two,,,
 A sonification experience to portray the sounds of portuguese consumption habits,"Seica, Mariana; Martins, Pedro; Roque, Licinio; Cardoso, F. Amilcar",2019,Georgia tech,ICAD,nature,theoretical,zero-one(par),,x,
@@ -166,7 +166,7 @@ Household appliances control device for the elderly,"England, David; Salces, Fau
 To sonify or not to sonify? Educator perceptions of auditory display in interactive simulations,"Fiedler, Brett L.; Walker, Bruce N.; Moore, Emily B.",2021,Georgia tech,ICAD,design-vision,non-specified,,,x,
 Auditory display of directions and states for mobile systems,"Johannsen, G.",2002,Georgia tech,ICAD,movement-space,theoretical,zero-one(both),,x,
 ‚ÄúMusical Exercise‚Äù for people with visual impairments: A preliminary study with the blindfolded,"Khan, Ridwan Ahmed; Jeon, Myounghoon; Yoon, Tejin",2018,Georgia tech,ICAD,medicine-movement,theoretical,zero-one(par),,x,x
-The SysSon platform: A computer music perspective of sonification,"Rutz, Hanns Holger; Vogt, Katharina; H√∂ldrich, Robert",2015,Georgia tech,ICAD,art-nature,experiential,for practice-comp,,,
+The SysSon platform: A computer music perspective of sonification,"Rutz, Hanns Holger; Vogt, Katharina; H√∂ldrich, Robert",2015,Georgia tech,ICAD,art-nature,experiential,for practice-comp,,x,
 Musical Expectancy in Squat Sonification For People Who Struggle With Physical Activity,"Newbold, Joseph W.; Bianchi-Berthouze, Nadia; Gold, Nicolas E.",2017,Georgia tech,ICAD,medicine-movement,theoretical,two,,x,
 A study of exploratory analysis in melodic sonification with structural and durational time scales,"Tsuchiya, Takahiko; Freeman, Jason",2018,Georgia tech,ICAD,design,theoretical,one(par),,x,
 Interacting with sound: An interaction paradigm for virtual auditory worlds,"Roeber, N.; Masuch, M.",2004,Georgia tech,ICAD,design-space-vision,non-specified,,theoretical,,
@@ -181,8 +181,8 @@ The sound of musicons: investigating the design of musically derived audio cues,
 "Micro-narratives in sound design: Context, character, and caricature in waveform manipulation","Back, Maribeth; Des, D.",1996,Georgia tech,ICAD,design,,,review,,
 Mapping inter-cardiovascular time-frequency coherence to harmonic tension in sonification of ensemble interaction between a COVID-19 patient and the medical team,"Frid, Emma; Orini, Michele; Martinelli, Giampaolo; Chew, Elaine",2021,Georgia tech,ICAD,medicine-nature,theoretical,two,,x,
 "Auditory notification of customer actions in a virtual retail environment: Sound design, awareness and attention","Falkenberg, Kjetil; Frid, Emma; Eriksson, Martin Ljungdahl; Otterbring, Tobias; Daunfeldt, Sven-Olov",2021,Georgia tech,ICAD,movement-space,non-specified,,,x,
-Handheld Device for Substitution From Vision to Audition,"Rouat, Jean; Lescal, Damien; Wood, Sean",2014,Georgia tech,ICAD,vision,theoretical,zero-one(par),,,
-Sonification of Colour and Depth in a Mobility Aid for Blind People,"Pun, Thierry; Deville, Benoit; Bologna, Guido",2010,Georgia tech,ICAD,medicine-space-vision,theoretical,zero-one(par),,,x
+Handheld Device for Substitution From Vision to Audition,"Rouat, Jean; Lescal, Damien; Wood, Sean",2014,Georgia tech,ICAD,vision,theoretical,zero-one(par),,x,x
+Sonification of Colour and Depth in a Mobility Aid for Blind People,"Pun, Thierry; Deville, Benoit; Bologna, Guido",2010,Georgia tech,ICAD,medicine-space-vision,theoretical,zero-one(par),,x,x
 "The sound of our words: Singling, a textual sonification software","Morales, Esteban; James, Kedrick; Horst, Rachel; Takeda, Yuya; Yung, Effiam",2021,Georgia tech,ICAD,design,theoretical,zero-one(par),,,
 From signal to substance and back: Insights from environmental sound research to auditory display design,"Gygi, Brian; Shafiro, Valeriy",2009,Georgia tech,ICAD,design,,,review,,
 Sonification Sandbox Reconstruction: Software Standard for Auditory Graphs,"Davison, Benjamin K.; Walker, Bruce N.",2007,Georgia tech,ICAD,design,theoretical,zero-one(par),,,
