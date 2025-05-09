@@ -9,7 +9,7 @@ This repository contains data files for a systematic literature review on the in
     - `Secondpool.xlsx`: Complete data pool from the second data extraction.
     - `Finalpool.xlsx`: Complete data pool, serving as the final set.
     - `Analysis.xlsx`: Table of overall analysis results (with detailed sub-group breakdowns).
-    - `Extraction Description.xlsx`: Table detailing the overall extraction with numerical data.
+    - `Extraction.xlsx`: Table detailing the overall extraction with numerical data.
 - `Analysis.csv`: Viewable on GitHub for the final results
 
 ## Usage
