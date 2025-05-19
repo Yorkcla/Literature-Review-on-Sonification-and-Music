@@ -10,6 +10,7 @@ This repository contains data files for a systematic literature review on the in
     - `Finalpool.xlsx`: Complete data pool, serving as the final set.
     - `Analysis.xlsx`: Table of overall analysis results (with detailed sub-group breakdowns).
     - `Extraction.xlsx`: Table detailing the overall extraction with numerical data.
+    - `Relation.xlsx`: Overall process to count the thematic overlaps and a complete table. 
 - `Analysis.csv`: Viewable on GitHub for the final results
 
 ## Usage
